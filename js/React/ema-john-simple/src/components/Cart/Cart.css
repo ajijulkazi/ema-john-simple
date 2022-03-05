@@ -1,0 +1,9 @@
+.cart-container h2,h3{
+        text-align: center;
+}
+
+.G-total{
+    font-size: 20px;
+    color: rgb(184, 25, 25);
+    font-weight: bold;
+}
